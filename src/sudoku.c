@@ -1,5 +1,5 @@
 
-#include "../include/sudoku.h"
+#include "sudoku.h"
 
 const char * SDK_MSGS[] = {
 	"quit : q     ",

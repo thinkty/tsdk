@@ -1,5 +1,5 @@
 
-#include "../include/sudoku.h"
+#include "sudoku.h"
 
 const char * usage =
 	"\n\tUsage: sudoku"

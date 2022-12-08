@@ -1,5 +1,5 @@
 
-#include "../include/solve.h"
+#include "solve.h"
 
 /**
  * Given a one dimentional grid of size SDK_LEN*SDK_LEN (=9*9), solve the
