@@ -1,5 +1,4 @@
-
-[![asciicast](https://asciinema.org/a/2RTPamf2eKYtoBGqQGbgp8aGA.svg)](https://asciinema.org/a/2RTPamf2eKYtoBGqQGbgp8aGA?t=3)
+[![asciicast](https://asciinema.org/a/sfO3LFRV7c633hb33PNYm0rmU.svg)](https://asciinema.org/a/sfO3LFRV7c633hb33PNYm0rmU)
 
 ## TSDK - Terminal SuDoKu
 
