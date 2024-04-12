@@ -1,7 +1,7 @@
 #ifndef __TSDK_SOLVE_H
 #define __TSDK_SOLVE_H
 
-#include "file.h"
+#include "common.h"
 
 /**
  * Given a one dimentional grid of size SDK_LEN*SDK_LEN (= 9*9), solve the

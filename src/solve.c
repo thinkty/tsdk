@@ -14,7 +14,7 @@ int solve(char * answ, int index)
 	}
 
 	/* Base case where all the cells have been checked */
-	if (index >= SDK_LEN * SDK_LEN) {
+	if (index >= SDK_SIZ) {
 		return OK;
 	}
 
