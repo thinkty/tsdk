@@ -1,2 +1,4 @@
 obj/
 sudoku
+compile_commands.json
+.cache/
